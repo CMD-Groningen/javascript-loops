@@ -1,5 +1,5 @@
 # JavaScript Loops
-- **Incremental loop:** Nieuwe HTML elementen **uit het niets creeëren** met loops!
+- **Incremental loop:** Nieuwe HTML elementen **uit het niets creëren** met loops!
 - **For_of loop:** Door reeds bestaande HTML elementen "loopen" met loops om ze te wijzigen!
 
 ## Voorbeeld bestanden

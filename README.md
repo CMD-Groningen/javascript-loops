@@ -53,7 +53,7 @@ for (items of cirkels) {
 }
 ```
 
-## INCREMENTAL LOOP!
+## Incremental loop
 
 Met de for-of loop manipuleer je dus reeds bestaande HTML elementen. Moet je echter **vanuit het niets nieuwe elementen** creeren, gebruik dan de incremental loop! Bijvoorbeeld:
 

@@ -1,6 +1,6 @@
 # JavaScript Loops
-- **Incremental loop:** Nieuwe HTML objecten uit het niets creeren met loops!
-- **For_of loop:** Door reeds bestaande HTML objecten "loopen" met loops om ze te wijzigen!
+- **Incremental loop:** Nieuwe HTML elementen **uit het niets creeëren** met loops!
+- **For_of loop:** Door reeds bestaande HTML elementen "loopen" met loops om ze te wijzigen!
 
 ## Voorbeeld bestanden
 Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/javascript-loops/archive/refs/heads/master.zip)     

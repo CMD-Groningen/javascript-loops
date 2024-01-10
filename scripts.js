@@ -34,7 +34,7 @@ for (items of cirkels) {
 //========================
 // Met de for-of loop manipuleer je dus reeds bestaande HTML elementen. Moet je echter vanuit het niets nieuwe elementen creeren, gebruik dan de incremental loop! Bijvoorbeeld: zet ergens 12 boompjes neer:
 
-for (index = 0; index < 12; index++) {
+for (index = 0; index < 100; index++) {
 	let boompje = document.createElement("section");
 	boompje.classList.add("groene_driehoek");
 	document.querySelector("#landschap").appendChild(boompje);
